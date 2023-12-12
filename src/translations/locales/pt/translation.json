@@ -1,0 +1,16 @@
+{
+  "apps": {
+    "error": {
+      "notFoundApp": "Não identificado uma localização Zendesk para renderização do aplicativo"
+    },
+    "navbar": {
+      "title": "Isso é um Navbar"
+    },
+    "sidebar": {
+      "error": {
+        "default": "Ocorreu um erro"
+      },
+      "title": "Título do Sidebar"
+    }
+  }
+}

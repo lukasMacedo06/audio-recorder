@@ -1,0 +1,24 @@
+{
+  "name": "Zendesk Template",
+  "author": {
+    "name": "AktieNow",
+    "email": "suporte@aktienow.com",
+    "url": "https://www.aktienow.com"
+  },
+  "location": {
+    "support": {
+      "ticket_editor": "http://localhost:3000?type=sidebar"
+    }
+  },
+  "private": true,
+  "defaultLocale": "en",
+  "version": "1.0",
+  "parameters": [
+    {
+      "name": "language",
+      "required": true,
+      "default": "pt"
+    }
+  ],
+  "frameworkVersion": "2.0"
+}

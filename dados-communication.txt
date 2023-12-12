@@ -1,0 +1,10 @@
+conversation id: 64acd88ac9dca94f14e3c49b
+
+App ID 627ab6eee1645f00f5ab6378
+Api Key ID app_62b614019b8b6500efd0048a
+Secret YMjrGwsetGRRvDJXCLs-_orCFZbuZ4BTKCFTLeeHncfQiT5ek-8pMzMFX5t5hUo5FzPIFAWu3jdn21zIVk9KhQ
+
+
+IAM User - audioRecorderDemo
+Access key - AKIAUUHKET24PXL4GWRC
+Scret Access key - YnyMHsS28xRQBFjHsBskN0AN4iL6lgZxsoaDzAx1
